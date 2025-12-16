@@ -1,6 +1,6 @@
 package com.bpi.M2Activity1;
 
-public class SeatWork1 {
+public class M2Activity1 {
 
 	public static void main(String[] args) {
 		System.out.print("");
