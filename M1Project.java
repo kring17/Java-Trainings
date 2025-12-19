@@ -7,7 +7,7 @@ public class M1Project {
     static double average = 0.0;
 
     public static void displayMenu() {
-        System.out.println("==== STUDENT GRADING SYSTEM ====");
+        System.out.println("\n==== STUDENT GRADING SYSTEM ====");
         System.out.println("A - Add Student Information");
         System.out.println("B - Compute Student Average");
         System.out.println("C - Display Student Information");
